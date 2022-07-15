@@ -7,6 +7,7 @@ This is basically a Tinder for Dog Website
 3. Bootstrap 4
 
 # DEMO:
+
 Title Section:
 <img width="960" alt="Title_Section" src="https://user-images.githubusercontent.com/108524555/179172311-f7d544f7-7bd3-4794-9434-31ef649d7f4b.png">
 
